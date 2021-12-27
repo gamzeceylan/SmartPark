@@ -1,2 +1,3 @@
 # SmartPark
-This is an internet of things project
+Bu bir nesnelerin interneti projesidir
+Açıklama eklenecek..
